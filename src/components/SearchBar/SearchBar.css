@@ -2,7 +2,7 @@
   border-bottom: 1px solid #3333;
   height: 60px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   background: #ffffff;
 }
@@ -15,7 +15,18 @@
   color: #262626;
 }
 .image-wrapper {
-  height: 50px;
+  width: 10%;
+  display: flex;
+  justify-content: center;
+}
+
+.fab {
+  
+  font-size: 2rem;
+}
+
+.far {
+  color: gray;
 }
 
 .logo-image {
