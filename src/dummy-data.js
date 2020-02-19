@@ -44,6 +44,27 @@ const dummyData = [
                 text: "It that injustice"
             }
         ]
+    },
+    {
+        username: "Callahan",
+        thumbnailUrl: 'https://scontent-den4-1.cdninstagram.com/v/t51.2885-19/s150x150/52872397_2105978889481292_6729446688852803584_n.jpg?_nc_ht=scontent-den4-1.cdninstagram.com&_nc_ohc=1JriAeTOgpIAX-rlnN1&oh=0eb613ae0204be1f14346dd2dbf38ca1&oe=5EFC5C6F',
+        imageUrl: 'https://scontent-den4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/77378718_168133134252692_1893498700044141575_n.jpg?_nc_ht=scontent-den4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=C3WJgVhpaD0AX85s4na&oh=ca80de954559f63dcda5fff38306dac8&oe=5EDD5907',
+        likes: 80000,
+        timestamp: "November 28th 2019, 03:12:09 pm",
+        comments: [
+            {
+                username: "twitch",
+                text: "Great Tie"
+            },
+            {
+                username: "michaelmarzetta",
+                text: "Why did you steal it?"
+            },
+            {
+                username: "JimmyBeards",
+                text: "Niiiiiice!"
+            },
+        ]
     }
 ];
 
